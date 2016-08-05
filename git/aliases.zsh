@@ -21,3 +21,4 @@ alias gac='git add -A && git commit -m'
 alias glr="git pull --rebase"
 alias gst="git stash"
 alias gstp="git stash pop"
+alias ga="git add"
